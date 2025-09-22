@@ -1,0 +1,5 @@
+We used PyInstaller to create a standalone executable file for our project. 
+You can play the game by simply running the main.exe file—no additional setup required.
+
+The project's source code is available in the "source code" folder. 
+However, running the source files directly might result in errors because the code relies on modules from the Python asciimatics package, which may not be installed on your system.
